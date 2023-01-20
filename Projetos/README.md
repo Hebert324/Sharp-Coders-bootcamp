@@ -1,9 +1,5 @@
 # Link para os Projetos Sharp-Coders
 
-## Projetos em aberto
+## Projetos em Realizados:
 
-- [**Bytebank**](https://github.com/imalearningplace-education/ByteBank-SharpCoders.git)
-
-## Projetos para melhorar
-
-## Projetos finalizados
+- [**Bytebank**](https://github.com/Hebert324/ByteBank-Sharp-Coders)
