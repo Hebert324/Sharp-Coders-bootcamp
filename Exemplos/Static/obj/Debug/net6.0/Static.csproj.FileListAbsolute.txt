@@ -1,0 +1,15 @@
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\bin\Debug\net6.0\Static.exe
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\bin\Debug\net6.0\Static.deps.json
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\bin\Debug\net6.0\Static.runtimeconfig.json
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\bin\Debug\net6.0\Static.dll
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\bin\Debug\net6.0\Static.pdb
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.csproj.AssemblyReference.cache
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.AssemblyInfoInputs.cache
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.AssemblyInfo.cs
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.dll
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\refint\Static.dll
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.pdb
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\Static.genruntimeconfig.cache
+C:\Users\heber\Desktop\Cursos\Programação\Cursos\Imã Learning\Sharp-Coders-bootcamp\Exemplos\Static\obj\Debug\net6.0\ref\Static.dll
