@@ -9,7 +9,7 @@
 * 📝 [Notas das Aulas](/Notas/)
 * 🌱 [Exemplos das aulas](/Exemplos/)
 * ✏️ [Exercícios Resolvidos e Propostos](/Exercicios/)
-* 🧩 [Soluções](Solu%C3%A7%C3%B5es/)
+<!-- * 🧩 [Soluções](Solu%C3%A7%C3%B5es/) -->
 
  ## 🚀 Projetos
 * [Byte Bank](https://github.com/Hebert324/Sharp-Coders-bootcamp/tree/master/Projetos/ByteBank)
